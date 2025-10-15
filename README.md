@@ -1,5 +1,3 @@
-Perfect 👍 I’ve looked at your structure and the project purpose.
-Here’s a **professional, portfolio-ready `README.md`** tailored exactly for your Amazon FAQ RAG chatbot project — reflecting your evaluation work (`manual_evaluation_results.csv`) and deployment (`app.py`).
 
 ---
 
