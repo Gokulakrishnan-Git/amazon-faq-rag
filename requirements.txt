@@ -10,3 +10,4 @@ numpy
 streamlit
 plotly
 python-dotenv
+langchain-groq
