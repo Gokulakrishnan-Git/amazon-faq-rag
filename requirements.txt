@@ -1,0 +1,12 @@
+langchain
+langchain-community
+openai
+tiktoken
+faiss-cpu
+ragas
+datasets
+pandas
+numpy
+streamlit
+plotly
+python-dotenv

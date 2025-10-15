@@ -1,0 +1,21 @@
+question,faithfulness,answer_relevancy,context_precision,response_time,answer_length
+What qualifies as damaged or defective products?,0.8824,0.2394,0.2878,0.6595160961151123,199
+What to do if you receive a damaged or defective product?,0.8571,0.4131,0.3913,0.37751317024230957,192
+How to return a damaged product Fulfilled by Amazon?,0.875,0.5591,0.4525,0.44431543350219727,197
+How to return a damaged product fulfilled by a third-party seller?,0.9231,0.4797,0.4364,0.4082789421081543,171
+How to replace a damaged product?,0.8182,0.4943,0.4777,0.3157939910888672,112
+How will the refunded money be credited?,1.0,0.273,0.3094,0.342268705368042,129
+What is the time window for initiating a return or replacement?,1.0,0.6465,0.4752,0.26257824897766113,64
+What to do if renewed products are damaged?,1.0,0.3547,0.3862,0.2250993251800537,70
+What can I do if I receive a wrong item?,1.0,0.2455,0.3315,0.20301079750061035,44
+What can I return?,0.7778,0.3654,0.3361,6.65113091468811,189
+What are non-returnable items?,0.8333,0.1829,0.1196,7.441662073135376,94
+How to return items?,0.9167,0.3896,0.2896,6.669096946716309,205
+Where can I view status of return?,0.4545,0.4031,0.1487,5.460043430328369,125
+How can I return a Gift?,0.9,0.2838,0.1864,7.542661190032959,146
+How can I return a Gift Card?,1.0,0.1788,0.1219,6.429656267166138,63
+Can my order be replaced?,0.9,0.3558,0.1639,5.343840599060059,114
+Can the replacement be delivered to a different address?,0.7273,0.6946,0.2768,5.415607452392578,147
+What can I do if I receive a wrong item?,1.0,0.2455,0.3315,6.314236879348755,44
+How can I request a refund for the standard shipping charge?,0.8462,0.5472,0.1586,8.78099536895752,156
+How can I request a refund for a refund/return due to missing warranty card/user manual in the package?,0.6923,0.48,0.2616,8.731221675872803,210
