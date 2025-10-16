@@ -65,7 +65,7 @@ Amazon_Rag/
 #### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Amazon-FAQ-RAG.git
+git clone https://github.com/Gokulakrishnan-Git/amazon-faq-rag.git
 cd Amazon-FAQ-RAG
 ```
 
