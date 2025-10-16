@@ -11,3 +11,6 @@ streamlit
 plotly
 python-dotenv
 langchain-groq
+transformers
+sentence-transformers
+torch
