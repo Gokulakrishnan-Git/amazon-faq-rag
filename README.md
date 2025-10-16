@@ -66,7 +66,7 @@ Amazon_Rag/
 
 ```bash
 git clone https://github.com/Gokulakrishnan-Git/amazon-faq-rag.git
-cd Amazon-FAQ-RAG
+cd amazon-faq-rag
 ```
 
 #### 2️⃣ Set up your environment
